@@ -1,20 +1,39 @@
-# Hey there :wave:
+# Hey There! :wave:
+<div id="header" align="center">
+  	<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3cxM3N5djBjaXdtdXB6Y3p3dXR5cHJlMWY5N2pxajZpYW03NDFsaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1XCcD9VLQZ2Io/giphy.gif" style="width:100%; max-width:400px; height:auto;"/>
+	<div id="badges">
+  		<a href="https://www.linkedin.com/in/cirimoni-spandana/">
+    			<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  		</a>
+  		<a href="https://www.instagram.com/spandana_cirimoni/">
+    			<img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+		</a>
+		<a href="mailto:spandana.cirimonirao@gmail.com">
+    			<img src="https://img.shields.io/badge/email_me-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
+ 	 	</a>
+	</div>
+</div>
 
 
+<br/>
+🧑‍💻 Hi, I'm Spandana, a Full Stack Software Engineer with a Master's degree in Computer Science from Purdue University. I specialize in building scalable applications and love transforming complex challenges into elegant solutions.
 
-## About me
+Driven by a detail-oriented mindset, I thrive on crafting simple yet impactful solutions that enhance application performance, maintainability, and user experience.
 
-- 💞️ I'm passionate about problem solving and seeing my projects come to life.
-- 🌱 I’m currently diving deeper into **LLMs**, **GenAI**, **React**, and **building scalable full-stack applications**.  
-- 💞️ I’m looking to collaborate on innovative projects involving **Generative AI**, **web development**, or anything that makes a difference.
-- ⚡ Fun fact: When I'm not coding, you can find me exploring new places and capturing through photography! 📷 
+Not your traditional coder—who needs coffee? :coffee: I’m fueled by pure enthusiasm and a passion for problem-solving! :brain: :sparkles:
 
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/spandana-cirimoni/count.svg" />
-</p>
+:rocket: Let's connect and innovate together!
+<br/>
 
-## Tech Stack
+## :book: About me 
+
+- 🌟 Passionate about bringing projects to life.
+- 🌱 Currently diving deeper into **LLMs**, **GenerativeAI**, **React**, and building scalable full-stack applications.
+- 💞️ Looking to collaborate on innovative projects that make a difference.
+- ⚡ Fun fact: When I'm not coding, I'm exploring new hiking trails and capturing moments through photography! 📷
+<br/>
+
+## 🛠️ Languages and Tools
 
 <div align="center">
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png" alt="Java" title="Java"/></code>
@@ -44,16 +63,21 @@
 	<code><img width="50" src="https://github.com/marwin1991/profile-technology-icons/assets/76662862/2481dc48-be6b-4ebb-9e8c-3b957efe69fa" alt="Linux" title="Linux"/></code>
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/184103699-d1b83c07-2d83-4d99-9a1e-83bd89e08117.png" alt="Selenium" title="Selenium"/></code>
 </div>
+<br/>
 
-## &#x1f4c8; My Leetcode Stats
+## 💼 Work Experience
+
+- **Software Engineer Team Lead** at [Community Dream Foundation](https://www.linkedin.com/company/community-dreams-foundation/) (July 2024 - Present)
+- **Graduate Teaching Assistant: Data Science** at [Purdue University Indianapolis](https://www.purdue.edu/campuses/indianapolis/) (Aug 2023 - May 2024)
+- **Software Engineer** at [Infor Pvt Ltd](https://www.infor.com/solutions/erp/m3) (Sept 2020 - Aug 2022)
+- **Web Developer** at [Bhoj Reddy Engineering College](http://www.brecw.ac.in/) (May 2019 - March 2020)
+<br/>
+
+## 📊 My Leetcode Stats
 [![My_Leetcode_Stats](https://leetcode-badge-sage.vercel.app/badge/chutki_c?theme=dark&bgColor=282828)](https://leetcode.com/chutki_c/)
+<br/>
 
-## &#x1f4c8; My Github Stats
+## 🧑‍💻 Most Used Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=spandana-cirimoni&layout=compact)
 
-
-## Get in touch :coffee:
-
-- [LinkedIn](https://www.linkedin.com/in/spandana-cirimoni)
-- [Mail](mailto:spandana.cirimonirao@gmail.com)
-- [Instagram](https://www.instagram.com/spandana_cirimoni/)
+🚀 **Let's connect and create something amazing together!**
