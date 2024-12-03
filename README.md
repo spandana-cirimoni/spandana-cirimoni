@@ -22,7 +22,6 @@ Driven by a detail-oriented mindset, I thrive on crafting simple yet impactful s
 
 Not your traditional coder—who needs coffee? :coffee: I’m fueled by pure enthusiasm and a passion for problem-solving! :brain: :sparkles:
 
-:rocket: Let's connect and innovate together!
 <br/>
 
 ## :book: About me 
