@@ -16,11 +16,11 @@
 
 
 <br/>
-🧑‍💻 Hi, I'm Spandana, a Full Stack Software Engineer with a Master's degree in Computer Science from Purdue University. I specialize in building scalable applications and love transforming complex challenges into elegant solutions.
+🧑‍💻 Hi, I'm Spandana, a Full Stack Developer at Mass Persona with a Master's degree in Computer Science from Purdue University Indianapolis. I specialize in building scalable applications and love transforming complex challenges into elegant solutions.
 
 Driven by a detail-oriented mindset, I thrive on crafting simple yet impactful solutions that enhance application performance, maintainability, and user experience.
 
-Not your traditional coder—who needs coffee? :coffee: I’m fueled by pure enthusiasm and a passion for problem-solving! :brain: :sparkles:
+Not your traditional coder—who needs coffee? :coffee: I’m fueled by pure enthusiasm and a passion for problem-solving! :bulb: :sparkles:
 
 <br/>
 
