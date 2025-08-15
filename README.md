@@ -76,7 +76,4 @@ Not your traditional coder—who needs coffee? :coffee: I’m fueled by pure ent
 [![My_Leetcode_Stats](https://leetcode-badge-sage.vercel.app/badge/chutki_c?theme=dark&bgColor=282828)](https://leetcode.com/chutki_c/)
 <br/>
 
-## 🧑‍💻 Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=spandana-cirimoni&layout=compact)
-
 🚀 **Let's connect and create something amazing together!**
