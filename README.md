@@ -67,8 +67,8 @@ Not your traditional coder—who needs coffee? :coffee: I’m fueled by pure ent
 ## 💼 Work Experience
 
 - **Full Stack Developer** at [MassPersona](https://www.masspersona.com/) (Dec 2024 - Present)
-- **Software Engineer Team Lead** at [Community Dream Foundation](https://www.linkedin.com/company/community-dreams-foundation/) (March 2024 - Dec 2024)
-- **Graduate Developer** at [Purdue University Indianapolis](https://www.purdue.edu/campuses/indianapolis/) (Aug 2023 - May 2024)
+- **Software Engineer Team Lead** at [Community Dream Foundation](https://www.linkedin.com/company/community-dreams-foundation/) (May 2024 - Dec 2024)
+- **Software Engineer** at [Purdue University Indianapolis](https://www.purdue.edu/campuses/indianapolis/) (Aug 2023 - May 2024)
 - **Software Engineer** at [Infor Pvt Ltd](https://www.infor.com/solutions/erp/m3) (Sept 2020 - Aug 2022)
 <br/>
 
