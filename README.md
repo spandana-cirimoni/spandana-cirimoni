@@ -20,7 +20,7 @@
 
 Driven by a detail-oriented mindset, I thrive on crafting simple yet impactful solutions that enhance application performance, maintainability, and user experience.
 
-Not your traditional coder—who needs coffee? :coffee: I’m fueled by pure enthusiasm and a passion for problem-solving! :bulb: :sparkles:
+Not your traditional coder - who needs coffee? :coffee: I’m fueled by pure enthusiasm and a passion for problem-solving! :bulb: :sparkles:
 
 <br/>
 
